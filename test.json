@@ -7,6 +7,8 @@
         "event_id": "E1",
         "text": "Ässät otti pisteet Lukolta lukemin 3–2 (1–0, 1–1, 0–1, 1–0).",
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "Lukko",
         "score": "3–2",
         "features": [],
         "periods": [
@@ -266,6 +268,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "KalPa",
         "score": "2–1",
         "features": [],
         "periods": [
@@ -345,6 +349,8 @@
         "event_id": "E1",
         "text": "Lukko vei HPK:sta kotivoiton numeroin 3–0 (0–0, 1–0, 2–0).",
         "event_type": "game result",
+        "home_team": "Lukko",
+        "guest_team": "HPK",
         "score": "3–0",
         "features": [],
         "periods": [
@@ -456,6 +462,8 @@
         "event_id": "E1",
         "text": "Espoon Blues löi Oulun Kärpät 3–2 (0–0, 1–0, 1–2, 0–0).",
         "event_type": "game result",
+        "home_team": "Kärpät",
+        "guest_team": "Blues",
         "score": "2–3",
         "features": [
           "penalty shot"
@@ -639,6 +647,8 @@
         "event_id": "E1",
         "text": "Kotijoukkue HIFK löi vastustajansa TPS:n 5–3.",
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "TPS",
         "score": "5–3",
         "features": [],
         "periods": [
@@ -893,6 +903,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "K-Espoo",
+        "guest_team": "Lukko",
         "score": "6–1",
         "features": [],
         "periods": [
@@ -1161,6 +1173,8 @@
         "event_id": "E1",
         "text": "Tappara kukisti TPS:n maalein 7–2.",
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "Tappara",
         "score": "2–7",
         "features": [],
         "periods": [
@@ -1366,6 +1380,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "HPK",
         "score": "2–1",
         "features": [
           "shoot out"
@@ -1500,6 +1516,8 @@
         "event_id": "E1",
         "text": "Vierasjoukkue Tappara voitti HPK:n 5–2.",
         "event_type": "game result",
+        "home_team": "HPK",
+        "guest_team": "Tappara",
         "score": "2–5",
         "features": [],
         "periods": [
@@ -1629,6 +1647,8 @@
         "event_id": "E1",
         "text": "Espoon Blues voitti kotikentällä Tampereen Ilveksen jatkoajalla 3–2 (1–0, 0–1, 0–0, 0–0).",
         "event_type": "game result",
+        "home_team": "Blues",
+        "guest_team": "Ilves",
         "score": "3–2",
         "features": [
           "overtime"
@@ -1859,6 +1879,8 @@
         "event_id": "E1",
         "text": "TPS kukisti HPK:n 4–3.",
         "event_type": "game result",
+        "home_team": "HPK",
+        "guest_team": "TPS",
         "score": "3–4",
         "features": [],
         "periods": [
@@ -2108,6 +2130,8 @@
         "event_id": "E1",
         "text": "Sport voitti Tapparan 3–2.",
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "Sport",
         "score": "2–3",
         "features": [],
         "periods": [
@@ -2223,6 +2247,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Kärpät",
+        "guest_team": "HPK",
         "score": "2–4",
         "features": [],
         "periods": [
@@ -2373,6 +2399,8 @@
         "event_id": "E1",
         "text": "Ässät otti voiton Tapparasta 4–1.",
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "Ässät",
         "score": "1–4",
         "features": [],
         "periods": [
@@ -2608,6 +2636,8 @@
         "event_id": "E1",
         "text": "SaiPa otti 3–2 -voiton Ilveksestä jatkoajalla.",
         "event_type": "game result",
+        "home_team": "SaiPa",
+        "guest_team": "Ilves",
         "score": "3–2",
         "features": [
           "overtime"
@@ -2764,6 +2794,8 @@
         "event_id": "E1",
         "text": "Pelicans vei jatkoajalle venyneessä ottelussa 2–1 -vierasvoiton TPS:stä.",
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "Pelicans",
         "score": "1–2",
         "features": [
           "overtime"
@@ -2870,6 +2902,8 @@
         "event_id": "E1",
         "text": "JyP kumosi Turun Palloseuran 4—2 (0—1, 2—1, 2—0).",
         "event_type": "game result",
+        "home_team": "JyP",
+        "guest_team": "TPS",
         "score": "4–2",
         "features": [],
         "periods": [
@@ -3076,6 +3110,8 @@
         "event_id": "E1",
         "text": "Tampereen Ilves jäi kotikaukalossaan hämeenlinnalaisten jalkoihin maalein 5—8 (0—4, 2—3, 3—1).",
         "event_type": "game result",
+        "home_team": "Ilves",
+        "guest_team": "HPK",
         "score": "5–8",
         "features": [],
         "periods": [
@@ -3388,6 +3424,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "SaiPa",
         "score": "4–2",
         "features": [],
         "periods": [
@@ -3655,6 +3693,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "SaiPa",
+        "guest_team": "Tappara",
         "score": "3–5",
         "features": [],
         "periods": [
@@ -3815,6 +3855,8 @@
         "event_id": "E1",
         "text": "Vierasjoukkue Kärpät oli HPK:ta parempi 1–0.",
         "event_type": "game result",
+        "home_team": "HPK",
+        "guest_team": "Kärpät",
         "score": "0–1",
         "features": [],
         "periods": [
@@ -3925,6 +3967,8 @@
         "event_id": "E1",
         "text": "Pelicans vei 4–1 (2–0, 0–1, 2–0) -voiton KalPa:sta.",
         "event_type": "game result",
+        "home_team": "Pelicans",
+        "guest_team": "KalPa",
         "score": "4–1",
         "features": [],
         "periods": [
@@ -4214,6 +4258,8 @@
         "event_id": "E1",
         "text": "SSV löi HIFK:n 4–3 (1–3, 2–0, 1–0).",
         "event_type": "game result",
+        "home_team": "SSV",
+        "guest_team": "HIFK",
         "score": "4–3",
         "features": [],
         "periods": [
@@ -4256,6 +4302,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Lukko",
+        "guest_team": "Ässät",
         "score": "1–0",
         "features": [],
         "periods": [
@@ -4427,6 +4475,8 @@
         "event_id": "E1",
         "text": "Ilves on voittanut Pelicansin 4–0.",
         "event_type": "game result",
+        "home_team": "Ilves",
+        "guest_team": "Pelicans",
         "score": "4–0",
         "features": [],
         "periods": [
@@ -4523,6 +4573,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "HIFK",
         "score": "6–2",
         "features": [],
         "periods": [
@@ -4781,6 +4833,8 @@
         "event_id": "E1",
         "text": "Kärpät haki pisteet JYP:ltä maalein 4–0 (0–0, 2–0, 2–0).",
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "Kärpät",
         "score": "0–4",
         "features": [],
         "periods": [
@@ -5092,6 +5146,8 @@
         "event_id": "E1",
         "text": "Oululaiset kaatoivat kotonaan HIFK:n 4–2 (0–0, 3–1, 1–1).",
         "event_type": "game result",
+        "home_team": "Kärpät",
+        "guest_team": "HIFK",
         "score": "4–2",
         "features": [],
         "periods": [
@@ -5351,6 +5407,8 @@
         "event_id": "E1",
         "text": "Jyväskylän JYP kaatoi Kärpät 4–3.",
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "Kärpät",
         "score": "4–3",
         "features": [],
         "periods": [
@@ -5466,6 +5524,8 @@
         "event_id": "E1",
         "text": "HPK voitti HIFK:n lukemin 5–4.",
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "HPK",
         "score": "4–5",
         "features": [],
         "periods": [
@@ -5704,6 +5764,8 @@
         "event_id": "E1",
         "text": "TPS voitti vieraspelissä HIFK:n 4–3.",
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "TPS",
         "score": "3–4",
         "features": [],
         "periods": [
@@ -5941,6 +6003,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "Ilves",
         "score": "4–2",
         "features": [],
         "periods": [
@@ -6205,6 +6269,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "Ilves",
         "score": "4–3",
         "features": [],
         "periods": [
@@ -6440,6 +6506,8 @@
         "event_id": "E1",
         "text": "HPK kaatui HIFK:lle 3–1.",
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "HPK",
         "score": "3–1",
         "features": [],
         "periods": [
@@ -6488,6 +6556,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Jokerit",
+        "guest_team": "HPK",
         "score": "5–4",
         "features": [],
         "periods": [
@@ -6737,6 +6807,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "Tappara",
         "score": "0–2",
         "features": [],
         "periods": [
@@ -6855,6 +6927,8 @@
         "event_id": "E1",
         "text": "HPK kukisti JYP:n 3–2.",
         "event_type": "game result",
+        "home_team": "HPK",
+        "guest_team": "JYP",
         "score": "3–2",
         "features": [],
         "periods": [
@@ -7130,6 +7204,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Blues",
+        "guest_team": "HIFK",
         "score": "1–5",
         "features": [],
         "periods": [
@@ -7432,6 +7508,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Jokerit",
+        "guest_team": "HPK",
         "score": "2–1",
         "features": [],
         "periods": [
@@ -7581,6 +7659,8 @@
         "event_id": "E1",
         "text": "Ässät taipui vierailija SaiPalle maalein 2–3 (1–0, 1–1, 0–2).",
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "SaiPa",
         "score": "2–3",
         "features": [],
         "periods": [
@@ -7832,6 +7912,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Kärpät",
+        "guest_team": "HIFK",
         "score": "4–3",
         "features": [
           "overtime"
@@ -8126,6 +8208,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "TPS",
         "score": "3–7",
         "features": [],
         "periods": [
@@ -8421,6 +8505,8 @@
         "event_id": "E1",
         "text": "HIFK on voittanut kotikentällään Lukon 5–2.",
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "Lukko",
         "score": "5–2",
         "features": [],
         "periods": [
@@ -8670,6 +8756,8 @@
         "event_id": "E1",
         "text": "TPS kukisti Jokerit 5-1.",
         "event_type": "game result",
+        "home_team": "Jokerit",
+        "guest_team": "TPS",
         "score": "1–5",
         "features": [],
         "periods": [
@@ -8823,6 +8911,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "KalPa",
+        "guest_team": "HIFK",
         "score": "4–0",
         "features": [],
         "periods": [
@@ -9002,6 +9092,8 @@
         "event_id": "E1",
         "text": "Ilves otti Lukosta 4–2 -kotivoiton.",
         "event_type": "game result",
+        "home_team": "Ilves",
+        "guest_team": "Lukko",
         "score": "4–2",
         "features": [],
         "periods": [
@@ -9212,6 +9304,8 @@
         "event_id": "E1",
         "text": "Oulun Kärpät vei JYP:istä 3–2 (2–0, 1–1, 0–1) -voiton.",
         "event_type": "game result",
+        "home_team": "Kärpät",
+        "guest_team": "JYP",
         "score": "3–2",
         "features": [],
         "periods": [
@@ -9452,6 +9546,8 @@
         "event_id": "E1",
         "text": "SaiPa kaatoi TPS:n puhtaasti 6–0.",
         "event_type": "game result",
+        "home_team": "SaiPa",
+        "guest_team": "TPS",
         "score": "6–0",
         "features": [],
         "periods": [
@@ -9677,6 +9773,8 @@
         "event_id": "E1",
         "text": "TuTo pelasi Jokereita vastaan 3—3 -tasapelin.",
         "event_type": "game result",
+        "home_team": "Jokerit",
+        "guest_team": "TuTo",
         "score": "3–3",
         "features": [],
         "periods": [
@@ -9896,6 +9994,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "Ässät",
         "score": "4–2",
         "features": [],
         "periods": [
@@ -10122,6 +10222,8 @@
         "event_id": "E1",
         "text": "SaiPa nousi 3–2 (0–2, 3–0, 0–0) -voittoon Lukosta.",
         "event_type": "game result",
+        "home_team": "SaiPa",
+        "guest_team": "Lukko",
         "score": "3–2",
         "features": [],
         "periods": [
@@ -10382,6 +10484,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "Ässät",
         "score": "5–0",
         "features": [],
         "periods": [
@@ -10707,6 +10811,8 @@
         "event_id": "E1",
         "text": "Blues kukisti Kärpät 2–1.",
         "event_type": "game result",
+        "home_team": "Blues",
+        "guest_team": "Kärpät",
         "score": "2–1",
         "features": [
           "shoot out"
@@ -10783,6 +10889,8 @@
         "event_id": "E1",
         "text": "Kotijoukkue Lukko hävisi vierailijalleen Tapparalle 1–2 (0–1, 0–1, 1–0).",
         "event_type": "game result",
+        "home_team": "Lukko",
+        "guest_team": "Tappara",
         "score": "1–2",
         "features": [],
         "periods": [
@@ -10979,6 +11087,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Lukko",
+        "guest_team": "TuTo",
         "score": "4–3",
         "features": [],
         "periods": [
@@ -11179,6 +11289,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "KalPa",
         "score": "2–1",
         "features": [],
         "periods": [
@@ -11291,6 +11403,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Ilves",
+        "guest_team": "Kärpät",
         "score": "2–5",
         "features": [],
         "periods": [
@@ -11540,6 +11654,8 @@
         "event_id": "E1",
         "text": "Jokerit haki pisteet KalPalta maalein 4—1 (3—0, 0—0, 1—1).",
         "event_type": "game result",
+        "home_team": "KalPa",
+        "guest_team": "Jokerit",
         "score": "1–4",
         "features": [],
         "periods": [
@@ -11712,6 +11828,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Pelicans",
+        "guest_team": "Tappara",
         "score": "1–4",
         "features": [],
         "periods": [
@@ -11863,6 +11981,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Blues",
+        "guest_team": "KalPa",
         "score": "5–2",
         "features": [],
         "periods": [
@@ -12141,6 +12261,8 @@
         "event_id": "E1",
         "text": "Rauman Lukko kaatui JYPille maalein 4–1 (2–1, 1–0, 1–0).",
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "Lukko",
         "score": "4–1",
         "features": [],
         "periods": [
@@ -12363,6 +12485,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "HPK",
+        "guest_team": "Ilves",
         "score": "1–2",
         "features": [],
         "periods": [
@@ -12427,6 +12551,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "KalPa",
         "score": "3–4",
         "features": [],
         "periods": [
@@ -12712,6 +12838,8 @@
         "event_id": "E1",
         "text": "Blues löi Ilveksen 3–2.",
         "event_type": "game result",
+        "home_team": "Blues",
+        "guest_team": "Ilves",
         "score": "3–2",
         "features": [],
         "periods": [
@@ -12954,6 +13082,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "Ilves",
         "score": "6–0",
         "features": [],
         "periods": [
@@ -13225,6 +13355,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Jokerit",
+        "guest_team": "HIFK",
         "score": "3–1",
         "features": [],
         "periods": [
@@ -13391,6 +13523,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "HPK",
+        "guest_team": "KalPa",
         "score": "4–3",
         "features": [],
         "periods": [
@@ -13606,6 +13740,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "TPS",
         "score": "3–2",
         "features": [
           "overtime"
@@ -13871,6 +14007,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "JYP",
         "score": "4–2",
         "features": [],
         "periods": [
@@ -14086,6 +14224,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "KalPa",
+        "guest_team": "Jukurit",
         "score": "2–3",
         "features": [],
         "periods": [
@@ -14249,6 +14389,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "SaiPa",
+        "guest_team": "JYP",
         "score": "2–4",
         "features": [],
         "periods": [
@@ -14425,6 +14567,8 @@
         "event_id": "E1",
         "text": "SaiPa sai voiton Jukureista kotonaan 1–0.",
         "event_type": "game result",
+        "home_team": "SaiPa",
+        "guest_team": "Jukurit",
         "score": "1–0",
         "features": [],
         "periods": [
@@ -14475,6 +14619,8 @@
         "event_id": "E1",
         "text": "Kärpät vei 4–3-kotivoiton turkulaisjoukkue TPS:stä.",
         "event_type": "game result",
+        "home_team": "Kärpät",
+        "guest_team": "TPS",
         "score": "4–3",
         "features": [],
         "periods": [
@@ -14668,6 +14814,8 @@
         "event_id": "E1",
         "text": "Ilves joutui antautumaan Pelicansille maalein 2–3.",
         "event_type": "game result",
+        "home_team": "Pelicans",
+        "guest_team": "Ilves",
         "score": "3–2",
         "features": [],
         "periods": [
@@ -14828,6 +14976,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Blues",
+        "guest_team": "Jokerit",
         "score": "2–3",
         "features": [],
         "periods": [
@@ -15070,6 +15220,8 @@
         "event_id": "E1",
         "text": "Blues kellisti Ässät 3–1.",
         "event_type": "game result",
+        "home_team": "Blues",
+        "guest_team": "Ässät",
         "score": "3–1",
         "features": [],
         "periods": [
@@ -15169,6 +15321,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "Pelicans",
         "score": "2–1",
         "features": [],
         "periods": [
@@ -15281,6 +15435,8 @@
         "event_id": "E1",
         "text": "Jokerit voitti Ässät 7-2.",
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "Jokerit",
         "score": "2–7",
         "features": [],
         "periods": [
@@ -15553,6 +15709,8 @@
         "event_id": "E1",
         "text": "Lukon ottelu TPS:aa vastaan päättyi kotijoukkueen 3–5 -tappioon.",
         "event_type": "game result",
+        "home_team": "Lukko",
+        "guest_team": "TPS",
         "score": "3–5",
         "features": [],
         "periods": [
@@ -15894,6 +16052,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "Ilves",
         "score": "4–2",
         "features": [],
         "periods": [
@@ -16031,6 +16191,8 @@
         "event_id": "E1",
         "text": "Lahden Pelicans murskasi Ässät selvänumeroisesti 6–2.",
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "Pelicans",
         "score": "2–6",
         "features": [],
         "periods": [
@@ -16167,6 +16329,8 @@
         "event_id": "E1",
         "text": "Helsinkiläinen SSV nuiji Tampereen Classicin 7–2.",
         "event_type": "game result",
+        "home_team": "SSV",
+        "guest_team": "Classic",
         "score": "7–2",
         "features": [],
         "periods": [
@@ -16382,6 +16546,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "TPS",
         "score": "2–1",
         "features": [],
         "periods": [
@@ -16444,6 +16610,8 @@
         "event_id": "E1",
         "text": "Pelicans vei pisteet Lukolta maalein 4–5 (1–4, 1–1, 2–0).",
         "event_type": "game result",
+        "home_team": "Lukko",
+        "guest_team": "Pelicans",
         "score": "4–5",
         "features": [],
         "periods": [
@@ -16753,6 +16921,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "HPK",
         "score": "5–4",
         "features": [
           "shoot out"
@@ -17066,6 +17236,8 @@
         "event_id": "E1",
         "text": "Ilves hävisi 1–6 HIFK:n vieraana.",
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "Ilves",
         "score": "6–1",
         "features": [],
         "periods": [
@@ -17348,6 +17520,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Blues",
+        "guest_team": "Ilves",
         "score": "7–2",
         "features": [],
         "periods": [
@@ -17658,6 +17832,8 @@
         "event_id": "E1",
         "text": "HIFK löi Ilveksen 4–3.",
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "Ilves",
         "score": "4–3",
         "features": [],
         "periods": [
@@ -17817,6 +17993,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "HPK",
+        "guest_team": "Pelicans",
         "score": "4–0",
         "features": [],
         "periods": [
@@ -18033,6 +18211,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "Jokerit",
         "score": "5–1",
         "features": [],
         "periods": [
@@ -18259,6 +18439,8 @@
         "event_id": "E1",
         "text": "HPK löi JYPin kotonaan 3–0.",
         "event_type": "game result",
+        "home_team": "HPK",
+        "guest_team": "JYP",
         "score": "3–0",
         "features": [],
         "periods": [
@@ -18413,6 +18595,8 @@
         "event_id": "E1",
         "text": "HIFK kaatoi TPS:n murskaluvuin 6–0 (3–0, 1–0, 2–0).",
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "TPS",
         "score": "6–0",
         "features": [],
         "periods": [
@@ -18769,6 +18953,8 @@
         "event_id": "E1",
         "text": "Vaasan Sport kukisti Kärpät jatkoajalla 2–1.",
         "event_type": "game result",
+        "home_team": "Sport",
+        "guest_team": "Kärpät",
         "score": "2–1",
         "features": [
           "overtime"
@@ -18846,6 +19032,8 @@
         "event_id": "E1",
         "text": "Helsingin Jokerit kävi hakemassa voiton Oulun Kärpistä loppulukemin 2–5 (2–2, 0–2, 0–1).",
         "event_type": "game result",
+        "home_team": "Kärpät",
+        "guest_team": "Jokerit",
         "score": "2–5",
         "features": [],
         "periods": [
@@ -19114,6 +19302,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Pelicans",
+        "guest_team": "JYP",
         "score": "2–6",
         "features": [],
         "periods": [
@@ -19249,6 +19439,8 @@
         "event_id": "E1",
         "text": "HIFK rökitti vieraansa HPK:n 5—0.",
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "HPK",
         "score": "5–0",
         "features": [],
         "periods": [
@@ -19462,6 +19654,8 @@
         "event_id": "E1",
         "text": "HIFK otti pisteet Ilvekseltä maalein 4–3.",
         "event_type": "game result",
+        "home_team": "Ilves",
+        "guest_team": "HIFK",
         "score": "3–4",
         "features": [],
         "periods": [
@@ -19801,6 +19995,8 @@
         "event_id": "E1",
         "text": "JYP vei pisteet SaiPalta luvuin 1–0.",
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "SaiPa",
         "score": "1–0",
         "features": [],
         "periods": [
@@ -19945,6 +20141,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Oilers",
+        "guest_team": "Josba",
         "score": "8–2",
         "features": [],
         "periods": [
@@ -20103,6 +20301,8 @@
         "event_id": "E1",
         "text": "KalPa voitti Lukon jatkoajalla 3-2.",
         "event_type": "game result",
+        "home_team": "KalPa",
+        "guest_team": "Lukko",
         "score": "3–2",
         "features": [
           "overtime"
@@ -20315,6 +20515,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "HIFK",
         "score": "1–2",
         "features": [],
         "periods": [
@@ -20476,6 +20678,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Kärpät",
+        "guest_team": "Ässät",
         "score": "1–0",
         "features": [],
         "periods": [
@@ -20567,6 +20771,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "HPK",
+        "guest_team": "SaiPa",
         "score": "2–1",
         "features": [],
         "periods": [
@@ -20753,6 +20959,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "TPS",
         "score": "4–0",
         "features": [],
         "periods": [
@@ -20901,6 +21109,8 @@
         "event_id": "E1",
         "text": "HIFK voitti Lukon voittomaalikisan jälkeen 5–4.",
         "event_type": "game result",
+        "home_team": "Lukko",
+        "guest_team": "HIFK",
         "score": "4–5",
         "features": [
           "shoot out"
@@ -21086,6 +21296,8 @@
         "event_id": "E1",
         "text": "Blues nuiji HPK:n 5–1.",
         "event_type": "game result",
+        "home_team": "Blues",
+        "guest_team": "HPK",
         "score": "5–1",
         "features": [],
         "periods": [
@@ -21283,6 +21495,8 @@
         "event_id": "E1",
         "text": "Espoon Blues kaatui Kärpille jatkoerässä loppulukemin 2–1 (0–0, 1–1, 0–0).",
         "event_type": "game result",
+        "home_team": "Kärpät",
+        "guest_team": "Blues",
         "score": "2–1",
         "features": [
           "overtime"
@@ -21529,6 +21743,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "Lukko",
         "score": "3–3",
         "features": [],
         "periods": [
@@ -21724,6 +21940,8 @@
         "event_id": "E1",
         "text": "Ilves noukki pisteet Tapparalta 1–0-voitolla.",
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "Ilves",
         "score": "0–1",
         "features": [],
         "periods": [
@@ -21885,6 +22103,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "TPS",
         "score": "3–2",
         "features": [],
         "periods": [
@@ -22090,6 +22310,8 @@
         "event_id": "E1",
         "text": "Blues nousi 4–1 -voittoon TPS:stä.",
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "Blues",
         "score": "1–4",
         "features": [],
         "periods": [
@@ -22362,6 +22584,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "Jokerit",
         "score": "3–6",
         "features": [],
         "periods": [
@@ -22624,6 +22848,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "Lukko",
         "score": "2–5",
         "features": [],
         "periods": [
@@ -22856,6 +23082,8 @@
         "event_id": "E1",
         "text": "Ässät voitti Tapparan 3–2.",
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "Tappara",
         "score": "3–2",
         "features": [],
         "periods": [
@@ -23008,6 +23236,8 @@
         "event_id": "E1",
         "text": "Pelicans kukisti vieraissa Porin Ässät 6–3.",
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "Pelicans",
         "score": "3–6",
         "features": [],
         "periods": [
@@ -23300,6 +23530,8 @@
         "event_id": "E1",
         "text": "Tapparalle kirjattiin voitto HPK:sta 4–3 (3–0, 0–1, 0–2, 1–0).",
         "event_type": "game result",
+        "home_team": "HPK",
+        "guest_team": "Tappara",
         "score": "3–4",
         "features": [],
         "periods": [
@@ -23528,6 +23760,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "SaiPa",
         "score": "2–0",
         "features": [],
         "periods": [
@@ -23705,6 +23939,8 @@
         "event_id": "E1",
         "text": "Lukko oli KalPaa parempi ja hankki selvän 5—1 -voiton.",
         "event_type": "game result",
+        "home_team": "Lukko",
+        "guest_team": "KalPa",
         "score": "5–1",
         "features": [],
         "periods": [
@@ -23922,6 +24158,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "Ässät",
         "score": "2–5",
         "features": [],
         "periods": [
@@ -24162,6 +24400,8 @@
         "event_id": "E1",
         "text": "Blues taipui Kärpille 3–2 (1–1, 0–1, 1–0, 0–0, 1–0).",
         "event_type": "game result",
+        "home_team": "Blues",
+        "guest_team": "Kärpät",
         "score": "2–3",
         "features": [],
         "periods": [
@@ -24449,6 +24689,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Pelicans",
+        "guest_team": "SaiPa",
         "score": "2–9",
         "features": [],
         "periods": [
@@ -24660,6 +24902,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Jokerit",
+        "guest_team": "Ässät",
         "score": "5–0",
         "features": [],
         "periods": [
@@ -24841,6 +25085,8 @@
         "event_id": "E1",
         "text": "Ässät haki vieraspisteet HPK:lta maalein 4–2 (0–0, 3–1, 1–1).",
         "event_type": "game result",
+        "home_team": "HPK",
+        "guest_team": "Ässät",
         "score": "2–4",
         "features": [],
         "periods": [
@@ -25048,6 +25294,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Lukko",
+        "guest_team": "HIFK",
         "score": "4–6",
         "features": [],
         "periods": [
@@ -25353,6 +25601,8 @@
         "event_id": "E1",
         "text": "Tappara otti kotikaukalossaan voiton porilaisista maalein 4—0 (2—0, 2—0, 0—0).",
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "Ässät",
         "score": "4–0",
         "features": [],
         "periods": [
@@ -25601,6 +25851,8 @@
         "event_id": "E1",
         "text": "Ilves kaatoi Savonlinnan Pallokerhon maalein 3—1 (2—0, 1—1, 0—0).",
         "event_type": "game result",
+        "home_team": "Ilves",
+        "guest_team": "SaPKo",
         "score": "3–1",
         "features": [],
         "periods": [
@@ -25758,6 +26010,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "TPS",
         "score": "3–2",
         "features": [
           "overtime"
@@ -25929,6 +26183,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Lukko",
+        "guest_team": "SaiPa",
         "score": "4–2",
         "features": [],
         "periods": [
@@ -26042,6 +26298,8 @@
         "event_id": "E1",
         "text": "TPS voitti Ässät 5–4.",
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "TPS",
         "score": "4–5",
         "features": [],
         "periods": [
@@ -26298,6 +26556,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "KalPa",
+        "guest_team": "TPS",
         "score": "1–5",
         "features": [],
         "periods": [
@@ -26565,6 +26825,8 @@
         "event_id": "E1",
         "text": "Tappara kaatoi jyväskyläläisen JYP:n 1–0 (0–0, 1–0, 0–0).",
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "JYP",
         "score": "1–0",
         "features": [],
         "periods": [
@@ -26697,6 +26959,8 @@
         "event_id": "E1",
         "text": "Rauman Lukko nappasi voiton, kun JYP kaatui maalein 4–3 jatkoajan jälkeen.",
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "Lukko",
         "score": "3–4",
         "features": [
           "overtime"
@@ -26867,6 +27131,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "TuTo",
+        "guest_team": "JyP",
         "score": "3–2",
         "features": [],
         "periods": [
@@ -27091,6 +27357,8 @@
         "event_id": "E1",
         "text": "Tappara kaatui HIFK:lle musertavasti 6–0.",
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "Tappara",
         "score": "6–0",
         "features": [],
         "periods": [
@@ -27238,6 +27506,8 @@
         "event_id": "E1",
         "text": "JYP vei pisteet Ilvekseltä lukemin 3–0 (0–0, 3–0, 0–0).",
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "Ilves",
         "score": "3–0",
         "features": [],
         "periods": [
@@ -27474,6 +27744,8 @@
         "event_id": "E1",
         "text": "Turkulaiset kokivat yhden maalin tappion, kun Ilves kaatoi TPS:n jatkoajalla 2–1 (0–0, 1–1, 0–0, 1–0).",
         "event_type": "game result",
+        "home_team": "Ilves",
+        "guest_team": "TPS",
         "score": "2–1",
         "features": [],
         "periods": [
@@ -27646,6 +27918,8 @@
         "event_id": "E1",
         "text": "JYP otti kotihallissaan 3–1 -voiton HPK:ta vastaan.",
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "HPK",
         "score": "3–1",
         "features": [],
         "periods": [
@@ -27824,6 +28098,8 @@
         "event_id": "E1",
         "text": "JyPille kirjattiin tappio SaiPaa vastaan 1—5 (1—1, 0—0, 0—4).",
         "event_type": "game result",
+        "home_team": "JyP",
+        "guest_team": "SaiPa",
         "score": "1–5",
         "features": [],
         "periods": [
@@ -28081,6 +28357,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Pelicans",
+        "guest_team": "TPS",
         "score": "2–1",
         "features": [],
         "periods": [
@@ -28204,6 +28482,8 @@
         "event_id": "E1",
         "text": "SaiPa kärsi 1–6 -tappion HPK:n vieraana.",
         "event_type": "game result",
+        "home_team": "HPK",
+        "guest_team": "SaiPa",
         "score": "6–1",
         "features": [],
         "periods": [
@@ -28499,6 +28779,8 @@
         "event_id": "E1",
         "text": "Kuopiolainen KalPa otti 5–0-vierasvoiton Turun Palloseurasta.",
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "KalPa",
         "score": "0–5",
         "features": [],
         "periods": [
@@ -28733,6 +29015,8 @@
         "event_id": "E1",
         "text": "Lukko kukisti HIFK:n 4–1.",
         "event_type": "game result",
+        "home_team": "Lukko",
+        "guest_team": "HIFK",
         "score": "4–1",
         "features": [],
         "periods": [
@@ -28885,6 +29169,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "HPK",
+        "guest_team": "Sport",
         "score": "1–3",
         "features": [],
         "periods": [
@@ -29024,6 +29310,8 @@
         "event_id": "E1",
         "text": "Oulun Kärpät kukisti Tapparan 4–2.",
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "Kärpät",
         "score": "2–4",
         "features": [],
         "periods": [
@@ -29298,6 +29586,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "HPK",
+        "guest_team": "Tappara",
         "score": "2–6",
         "features": [],
         "periods": [
@@ -29549,6 +29839,8 @@
         "event_id": "E1",
         "text": "KalPa selätti Espoon Bluesin maalein 3–0 (0–0, 1–0, 2–0).",
         "event_type": "game result",
+        "home_team": "KalPa",
+        "guest_team": "Blues",
         "score": "3–0",
         "features": [],
         "periods": [
@@ -29732,6 +30024,8 @@
         "event_id": "E1",
         "text": "Tampereen Tappara kaatoi kotikaukalossaan Helsingin Jokerit maalein 5–3.",
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "Jokerit",
         "score": "5–3",
         "features": [],
         "periods": [
@@ -29999,6 +30293,8 @@
         "event_id": "E1",
         "text": "Vierailija KalPa nousi 3–2 -voittoon TPS:stä.",
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "KalPa",
         "score": "2–3",
         "features": [],
         "periods": [
@@ -30188,6 +30484,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Kärpät",
+        "guest_team": "Blues",
         "score": "0–6",
         "features": [],
         "periods": [
@@ -30363,6 +30661,8 @@
         "event_id": "E1",
         "text": "Sport kaatoi Jokipojat 2–1.",
         "event_type": "game result",
+        "home_team": "Sport",
+        "guest_team": "Jokipojat",
         "score": "2–1",
         "features": [],
         "periods": [
@@ -30503,6 +30803,8 @@
         "event_id": "E1",
         "text": "HPK vei 4-3 -voiton HIFK:sta.",
         "event_type": "game result",
+        "home_team": "HPK",
+        "guest_team": "HIFK",
         "score": "4–3",
         "features": [],
         "periods": [
@@ -30735,6 +31037,8 @@
         "event_id": "E1",
         "text": "KalPa kuritti TPS:ää 4–0.",
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "KalPa",
         "score": "0–4",
         "features": [],
         "periods": [
@@ -30880,6 +31184,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "JyP",
         "score": "9–7",
         "features": [],
         "periods": [
@@ -31274,6 +31580,8 @@
         "event_id": "E1",
         "text": "Pelicans taisteli vierasvoiton TPS:stä lukemin 3–2.",
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "Pelicans",
         "score": "2–3",
         "features": [],
         "periods": [
@@ -31455,6 +31763,8 @@
         "event_id": "E1",
         "text": "Jokereiden ja TPS:n ottelu päättyi selvään kotivoittoon 10—3.",
         "event_type": "game result",
+        "home_team": "Jokerit",
+        "guest_team": "TPS",
         "score": "10–3",
         "features": [],
         "periods": [
@@ -31767,6 +32077,8 @@
         "event_id": "E1",
         "text": "Jokerien paremmuus Tapparasta kirjattiin luvuin 4—0 (1—0, 2—0, 1—0).",
         "event_type": "game result",
+        "home_team": "Jokerit",
+        "guest_team": "Tappara",
         "score": "4–0",
         "features": [],
         "periods": [
@@ -31935,6 +32247,8 @@
         "event_id": "E1",
         "text": "Lukko voitti HIFK:n 5–2.",
         "event_type": "game result",
+        "home_team": "Lukko",
+        "guest_team": "HIFK",
         "score": "5–2",
         "features": [],
         "periods": [
@@ -32148,6 +32462,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "Pelicans",
         "score": "2–3",
         "features": [],
         "periods": [
@@ -32320,6 +32636,8 @@
         "event_id": "E1",
         "text": "Ässät hankki matkavoiton, kun Ilves kaatui 4–3.",
         "event_type": "game result",
+        "home_team": "Ilves",
+        "guest_team": "Ässät",
         "score": "3–4",
         "features": [],
         "periods": [
@@ -32561,6 +32879,8 @@
         "event_id": "E1",
         "text": "Turun Palloseura kaatui JYP:n kotikaukalossa jatkoajan jälkeen maalein 3–2.",
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "TPS",
         "score": "3–2",
         "features": [
           "overtime"
@@ -32730,6 +33050,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Pelicans",
+        "guest_team": "HPK",
         "score": "3–2",
         "features": [],
         "periods": [
@@ -32952,6 +33274,8 @@
         "event_id": "E1",
         "text": "Jokerit riepotteli SaiPaa 7–2.",
         "event_type": "game result",
+        "home_team": "Jokerit",
+        "guest_team": "SaiPa",
         "score": "7–2",
         "features": [],
         "periods": [
@@ -33265,6 +33589,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "Kärpät",
         "score": "1–4",
         "features": [],
         "periods": [
@@ -33483,6 +33809,8 @@
         "event_id": "E1",
         "text": "Kotijoukkue Lukko ja vierailija JYP tasasivat pisteet maalein 3–3 (1–0, 1–1, 1–2).",
         "event_type": "game result",
+        "home_team": "Lukko",
+        "guest_team": "JYP",
         "score": "3–3",
         "features": [
           "overtime"
@@ -33706,6 +34034,8 @@
         "event_id": "E1",
         "text": "Jyväskyläläiset iskivät Kuopion KalPa:sta voittoluvut 5—0 (1—0, 4—0, 0—0).",
         "event_type": "game result",
+        "home_team": "JyP",
+        "guest_team": "KalPa",
         "score": "5–0",
         "features": [],
         "periods": [
@@ -33972,6 +34302,8 @@
         "event_id": "E1",
         "text": "SaiPa oli iskussa HIFK:ta vastaan. Ottelu päättyi lappeenrantalaisten 3–1 -voittoon.",
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "SaiPa",
         "score": "1–3",
         "features": [],
         "periods": [
@@ -34137,6 +34469,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "KalPa",
         "score": "2–3",
         "features": [],
         "periods": [
@@ -34250,6 +34584,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "SaiPa",
         "score": "5–1",
         "features": [],
         "periods": [
@@ -34611,6 +34947,8 @@
         "event_id": "E1",
         "text": "HPK kaatoi TPS:n vieraissa 3–0 (1–0, 0–0, 2–0).",
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "HPK",
         "score": "0–3",
         "features": [],
         "periods": [
@@ -34772,6 +35110,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "Tappara",
         "score": "4–3",
         "features": [
           "shoot out"
@@ -35019,6 +35359,8 @@
         "event_id": "E1",
         "text": "Tappara vei tylyn 6–2 -voiton TPS:stä.",
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "TPS",
         "score": "6–2",
         "features": [],
         "periods": [
@@ -35244,6 +35586,8 @@
         "event_id": "E1",
         "text": "Tampereen Ilves kaatoi Oulun Kärpät 4–3 (2–3, 0–0, 1–0, 1–0).",
         "event_type": "game result",
+        "home_team": "Ilves",
+        "guest_team": "Kärpät",
         "score": "4–3",
         "features": [],
         "periods": [
@@ -35473,6 +35817,8 @@
         "event_id": "E1",
         "text": "JYP on kukistanut vieraissa Ässät 3–1.",
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "JYP",
         "score": "1–3",
         "features": [],
         "periods": [
@@ -35552,6 +35898,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "Tappara",
         "score": "3–4",
         "features": [
           "overtime"
@@ -35730,6 +36078,8 @@
         "event_id": "E1",
         "text": "Espoon Blues osoitti olevansa kotijoukkue TPS:ää vahvempi 3–2.",
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "Blues",
         "score": "2–3",
         "features": [],
         "periods": [
@@ -35984,6 +36334,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "HIFK",
         "score": "3–0",
         "features": [],
         "periods": [
@@ -36123,6 +36475,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "SaiPa",
         "score": "4–0",
         "features": [],
         "periods": [
@@ -36243,6 +36597,8 @@
         "event_id": "E1",
         "text": "Espoon Blues kellisti JYP:n 4–2 (2–0. 1–0, 1–2).",
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "Blues",
         "score": "2–4",
         "features": [],
         "periods": [
@@ -36506,6 +36862,8 @@
         "event_id": "E1",
         "text": "Jokerit löi HIFK:n 2–1 (1–0, 1–0, 0–1).",
         "event_type": "game result",
+        "home_team": "Jokerit",
+        "guest_team": "HIFK",
         "score": "2–1",
         "features": [],
         "periods": [
@@ -36649,6 +37007,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Pelicans",
+        "guest_team": "JYP",
         "score": "0–3",
         "features": [],
         "periods": [
@@ -36818,6 +37178,8 @@
         "event_id": "E1",
         "text": "Pelicans kuittasi nimiinsä voittomaalikisaan venyneen ottelun Bluesia vastaan 6-5.",
         "event_type": "game result",
+        "home_team": "Pelicans",
+        "guest_team": "Blues",
         "score": "6–5",
         "features": [
           "shoot out"
@@ -37147,6 +37509,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "Blues",
         "score": "2–1",
         "features": [],
         "periods": [
@@ -37361,6 +37725,8 @@
         "event_id": "E1",
         "text": "Ässät voitti Pelicansin 5–3 (2–0, 3–2, 0–1).",
         "event_type": "game result",
+        "home_team": "Pelicans",
+        "guest_team": "Ässät",
         "score": "3–5",
         "features": [],
         "periods": [
@@ -37591,6 +37957,8 @@
         "event_id": "E1",
         "text": "KalPa löi HIFK:n 2–0 (1–0, 1–0, 0–0).",
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "KalPa",
         "score": "0–2",
         "features": [],
         "periods": [
@@ -37768,6 +38136,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "HPK",
+        "guest_team": "Ilves",
         "score": "3–5",
         "features": [],
         "periods": [
@@ -38085,6 +38455,8 @@
         "event_id": "E1",
         "text": "Tappara jyräsi HPK:n 4–0.",
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "HPK",
         "score": "4–0",
         "features": [],
         "periods": [
@@ -38167,6 +38539,8 @@
         "event_id": "E1",
         "text": "Kärppien ja TPS:n ottelu päättyi kotijoukkueelle 5–2.",
         "event_type": "game result",
+        "home_team": "Kärpät",
+        "guest_team": "TPS",
         "score": "5–2",
         "features": [],
         "periods": [
@@ -38409,6 +38783,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Ilves",
+        "guest_team": "Jokipojat",
         "score": "4–1",
         "features": [],
         "periods": [
@@ -38612,6 +38988,8 @@
         "event_id": "E1",
         "text": "SaiPa voitti TPS:n 2–1.",
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "SaiPa",
         "score": "1–2",
         "features": [],
         "periods": [
@@ -38782,6 +39160,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Lukko",
+        "guest_team": "HPK",
         "score": "1–2",
         "features": [],
         "periods": [
@@ -38987,6 +39367,8 @@
         "event_id": "E1",
         "text": "HPK vei 1–0 voiton TPS:stä.",
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "HPK",
         "score": "0–1",
         "features": [],
         "periods": [
@@ -39085,6 +39467,8 @@
         "event_id": "E1",
         "text": "HPK kärsi vierastappion, kun Tampereen Tappara otti pisteet kotikaukalossaan maalein 3–2 (3–0, 0–1, 0–1).",
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "HPK",
         "score": "3–2",
         "features": [],
         "periods": [
@@ -39305,6 +39689,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Kärpät",
+        "guest_team": "Pelicans",
         "score": "3–4",
         "features": [],
         "periods": [
@@ -39461,6 +39847,8 @@
         "event_id": "E1",
         "text": "JyP:lle kirjoitettiin voitto HPK:sta 3—1 (0—1, 0—0, 3—0).",
         "event_type": "game result",
+        "home_team": "JyP",
+        "guest_team": "HPK",
         "score": "3–1",
         "features": [],
         "periods": [
@@ -39699,6 +40087,8 @@
         "event_id": "E1",
         "text": "Pelicans vei JYPistä voittonumerot 2–1.",
         "event_type": "game result",
+        "home_team": "Pelicans",
+        "guest_team": "JYP",
         "score": "2–1",
         "features": [],
         "periods": [
@@ -39902,6 +40292,8 @@
         "event_id": "E1",
         "text": "Ässät vei HPK:sta 2–1 -jatkoaikavoiton.",
         "event_type": "game result",
+        "home_team": "HPK",
+        "guest_team": "Ässät",
         "score": "1–2",
         "features": [
           "overtime"
@@ -40090,6 +40482,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Kärpät",
+        "guest_team": "JYP",
         "score": "1–2",
         "features": [],
         "periods": [
@@ -40288,6 +40682,8 @@
         "event_id": "E1",
         "text": "Kärpät vei Blues-ottelunsa voittomaalikilpailussa 5–4.",
         "event_type": "game result",
+        "home_team": "Kärpät",
+        "guest_team": "Blues",
         "score": "5–4",
         "features": [
           "shoot out"
@@ -40540,6 +40936,8 @@
         "event_id": "E1",
         "text": "Kuopion KalPa ryösti pisteet SaiPalta 1–0.",
         "event_type": "game result",
+        "home_team": "SaiPa",
+        "guest_team": "KalPa",
         "score": "0–1",
         "features": [],
         "periods": [
@@ -40653,6 +41051,8 @@
         "event_id": "E1",
         "text": "HIFK ylsi niukkaan maalin voittoon JYP:stä, kun se löi vieraansa 2–1.",
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "JYP",
         "score": "2–1",
         "features": [],
         "periods": [
@@ -40856,6 +41256,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Blues",
+        "guest_team": "HIFK",
         "score": "2–6",
         "features": [],
         "periods": [
@@ -41112,6 +41514,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Blues",
+        "guest_team": "TPS",
         "score": "4–0",
         "features": [],
         "periods": [
@@ -41313,6 +41717,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Jokerit",
+        "guest_team": "Pelicans",
         "score": "3–4",
         "features": [
           "penalty shot"
@@ -41634,6 +42040,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Kärpät",
+        "guest_team": "Ässät",
         "score": "1–3",
         "features": [],
         "periods": [
@@ -41852,6 +42260,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Blues",
+        "guest_team": "TPS",
         "score": "3–2",
         "features": [],
         "periods": [
@@ -42064,6 +42474,8 @@
         "event_id": "E1",
         "text": "SaiPa otti voiton kukistamalla TPS:n vieraissa maalein 3–2 (1–0, 2–1, 0–1).",
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "SaiPa",
         "score": "2–3",
         "features": [],
         "periods": [
@@ -42283,6 +42695,8 @@
         "event_id": "E1",
         "text": "Tappara voitti vieraissa Ässät maalein 2–1.",
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "Tappara",
         "score": "1–2",
         "features": [],
         "periods": [
@@ -42366,6 +42780,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "TPS",
         "score": "1–3",
         "features": [],
         "periods": [
@@ -42606,6 +43022,8 @@
         "event_id": "E1",
         "text": "SaiPa vei JYP:stä kotivoiton 2–1.",
         "event_type": "game result",
+        "home_team": "SaiPa",
+        "guest_team": "JYP",
         "score": "2–1",
         "features": [],
         "periods": [
@@ -42781,6 +43199,8 @@
         "event_id": "E1",
         "text": "Tapanilan Erä voitti Espoon Oilersin 6–5 rangaistuslaukauskisan jälkeen.",
         "event_type": "game result",
+        "home_team": "Oilers",
+        "guest_team": "Tapanilan Erä",
         "score": "5–6",
         "features": [
           "penalty shot"
@@ -42929,6 +43349,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "TPS",
         "score": "0–3",
         "features": [],
         "periods": [
@@ -43099,6 +43521,8 @@
         "event_id": "E1",
         "text": "Ässät kaatoi Lukon voittolaukauksilla 4–3.",
         "event_type": "game result",
+        "home_team": "Lukko",
+        "guest_team": "Ässät",
         "score": "3–4",
         "features": [
           "shoot out"
@@ -43232,6 +43656,8 @@
         "event_id": "E1",
         "text": "SaiPa kaatoi vierailleen JYP:n 2–1 (0–1,1–0,1–0).",
         "event_type": "game result",
+        "home_team": "SaiPa",
+        "guest_team": "JYP",
         "score": "2–1",
         "features": [],
         "periods": [
@@ -43453,6 +43879,8 @@
         "event_id": "E1",
         "text": "TPS kukisti HIFK:n 4–1.",
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "HIFK",
         "score": "4–1",
         "features": [],
         "periods": [
@@ -43646,6 +44074,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "Tappara",
         "score": "6–0",
         "features": [],
         "periods": [
@@ -43808,6 +44238,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "Sport",
         "score": "0–1",
         "features": [],
         "periods": [
@@ -43878,6 +44310,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Ilves",
+        "guest_team": "Tappara",
         "score": "6–1",
         "features": [],
         "periods": [
@@ -44152,6 +44586,8 @@
         "event_id": "E1",
         "text": "HIFK kaatui Ilvekselle 2–1 voittomaalikilpailun jälkeen.",
         "event_type": "game result",
+        "home_team": "Ilves",
+        "guest_team": "HIFK",
         "score": "2–1",
         "features": [
           "shoot out"
@@ -44307,6 +44743,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "Lukko",
         "score": "4–3",
         "features": [],
         "periods": [
@@ -44539,6 +44977,8 @@
         "event_id": "E1",
         "text": "Tappara kaatoi narripaidat 5–1.",
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "Jokerit",
         "score": "5–1",
         "features": [],
         "periods": [
@@ -44777,6 +45217,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "Pelicans",
         "score": "2–4",
         "features": [],
         "periods": [
@@ -45032,6 +45474,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "HPK",
         "score": "3–2",
         "features": [],
         "periods": [
@@ -45185,6 +45629,8 @@
         "event_id": "E1",
         "text": "TPS joutui kotihallissaan alistumaan porilaisille luvuin 0–2.",
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "Ässät",
         "score": "0–2",
         "features": [],
         "periods": [
@@ -45363,6 +45809,8 @@
         "event_id": "E1",
         "text": "Blues löi Tapparan jatkoajalla 3–2.",
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "Blues",
         "score": "2–3",
         "features": [],
         "periods": [
@@ -45655,6 +46103,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Lukko",
+        "guest_team": "HIFK",
         "score": "3–2",
         "features": [],
         "periods": [
@@ -45850,6 +46300,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "Blues",
         "score": "1–3",
         "features": [],
         "periods": [
@@ -46018,6 +46470,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Lukko",
+        "guest_team": "Tappara",
         "score": "4–3",
         "features": [
           "overtime"
@@ -46301,6 +46755,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Blues",
+        "guest_team": "Kärpät",
         "score": "3–2",
         "features": [
           "overtime"
@@ -46494,6 +46950,8 @@
         "event_id": "E1",
         "text": "Ilves kaatui Ässille maalein 4–1.",
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "Ilves",
         "score": "4–1",
         "features": [],
         "periods": [
@@ -46659,6 +47117,8 @@
         "event_id": "E1",
         "text": "Ilves kaatoi HIFK:n 4–3.",
         "event_type": "game result",
+        "home_team": "Ilves",
+        "guest_team": "HIFK",
         "score": "4–3",
         "features": [],
         "periods": [
@@ -46825,6 +47285,8 @@
         "event_id": "E1",
         "text": "Porin Ässät haki JYP:stä puhtaan voiton osumin 3–0.",
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "Ässät",
         "score": "0–3",
         "features": [],
         "periods": [
@@ -46837,6 +47299,8 @@
         "event_id": "E2",
         "text": null,
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "Sport",
         "score": "3–1",
         "features": [],
         "periods": [
@@ -47124,6 +47588,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Lukko",
+        "guest_team": "Kärpät",
         "score": "3–6",
         "features": [],
         "periods": [
@@ -47450,6 +47916,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Blues",
+        "guest_team": "Ilves",
         "score": "2–1",
         "features": [],
         "periods": [
@@ -47531,6 +47999,8 @@
         "event_id": "E1",
         "text": "Porilaiset kukistivat Ilveksen maalein 5—2 (0—1,3—0,2—1).",
         "event_type": "game result",
+        "home_team": "Ilves",
+        "guest_team": "Ässät",
         "score": "2–5",
         "features": [],
         "periods": [
@@ -47782,6 +48252,8 @@
         "event_id": "E1",
         "text": "Lukko haki Kuopion KalPalta pisteet maalein 7—5 (3—2, 2—2, 2—1).",
         "event_type": "game result",
+        "home_team": "KalPa",
+        "guest_team": "Lukko",
         "score": "5–7",
         "features": [],
         "periods": [
@@ -48115,6 +48587,8 @@
         "event_id": "E1",
         "text": "Porin Ässien ja Hämeenlinnan Pallokerhon ottelu päättyi 5—5 (2—1, 1—1, 2—3, 0—0).",
         "event_type": "game result",
+        "home_team": "HPK",
+        "guest_team": "Ässät",
         "score": "5–5",
         "features": [],
         "periods": [
@@ -48430,6 +48904,8 @@
         "event_id": "E1",
         "text": "Lukko ja Ässät ottivat yhteen, ja ottelu päättyi raumalaisten 2–1-voittoon.",
         "event_type": "game result",
+        "home_team": "Lukko",
+        "guest_team": "Ässät",
         "score": "2–1",
         "features": [],
         "periods": [
@@ -48573,6 +49049,8 @@
         "event_id": "E1",
         "text": "HPK vei KalPasta 4–0-vierasvoiton.",
         "event_type": "game result",
+        "home_team": "KalPa",
+        "guest_team": "HPK",
         "score": "0–4",
         "features": [],
         "periods": [
@@ -48728,6 +49206,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Blues",
+        "guest_team": "Jokerit",
         "score": "3–4",
         "features": [
           "overtime"
@@ -49027,6 +49507,8 @@
         "event_id": "E1",
         "text": "Ässät kärsi 2–7 -vierastappion Lukolle.",
         "event_type": "game result",
+        "home_team": "Lukko",
+        "guest_team": "Ässät",
         "score": "7–2",
         "features": [],
         "periods": [
@@ -49177,6 +49659,8 @@
         "event_id": "E1",
         "text": "Oulun Kärpät hävisi vieraana olleelle JYPille jatkoajan jälkeen 3–2.",
         "event_type": "game result",
+        "home_team": "Kärpät",
+        "guest_team": "JYP",
         "score": "2–3",
         "features": [],
         "periods": [
@@ -49380,6 +49864,8 @@
         "event_id": "E1",
         "text": "Oulun Kärpät voitti Lukon 4–3",
         "event_type": "game result",
+        "home_team": "Kärpät",
+        "guest_team": "Lukko",
         "score": "4–3",
         "features": [],
         "periods": [
@@ -49629,6 +50115,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Jokerit",
+        "guest_team": "Lukko",
         "score": "0–1",
         "features": [],
         "periods": [
@@ -49742,6 +50230,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Blues",
+        "guest_team": "Ilves",
         "score": "6–0",
         "features": [],
         "periods": [
@@ -49867,6 +50357,8 @@
         "event_id": "E1",
         "text": "SaiPa kukisti HIFK:n kotivoitolla 3–1.",
         "event_type": "game result",
+        "home_team": "SaiPa",
+        "guest_team": "HIFK",
         "score": "3–1",
         "features": [],
         "periods": [
@@ -50036,6 +50528,8 @@
         "event_id": "E1",
         "text": "KalPa vietti maalijuhlia Helsingin IFK:n kustannuksella, kun kotijoukkue murskasi HIFK:n 5–1 (1–0, 1–1, 3–0).",
         "event_type": "game result",
+        "home_team": "KalPa",
+        "guest_team": "HIFK",
         "score": "5–1",
         "features": [],
         "periods": [
@@ -50287,6 +50781,8 @@
         "event_id": "E1",
         "text": "Ässät ja Ilves päätyivät tasapeliin 2—2.",
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "Ilves",
         "score": "2–2",
         "features": [],
         "periods": [
@@ -50497,6 +50993,8 @@
         "event_id": "E1",
         "text": "Ilves kukisti KalPan 2–1.",
         "event_type": "game result",
+        "home_team": "KalPa",
+        "guest_team": "Ilves",
         "score": "1–2",
         "features": [],
         "periods": [
@@ -50626,6 +51124,8 @@
         "event_id": "E1",
         "text": "HPK vei voiton, kun Pelicans sai kyytiä puhtaasti 4–0 (2–0, 0–0, 2–0).",
         "event_type": "game result",
+        "home_team": "Pelicans",
+        "guest_team": "HPK",
         "score": "0–4",
         "features": [],
         "periods": [
@@ -50810,6 +51310,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "HPK",
         "score": "5–4",
         "features": [],
         "periods": [
@@ -51050,6 +51552,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "HPK",
         "score": "0–3",
         "features": [],
         "periods": [
@@ -51185,6 +51689,8 @@
         "event_id": "E1",
         "text": "Jokerit kärsi tappion, kun Tappara kaatoi vieraansa 2–0 (0–0, 1–0, 1–0).",
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "Jokerit",
         "score": "2–0",
         "features": [],
         "periods": [
@@ -51353,6 +51859,8 @@
         "event_id": "E1",
         "text": "Blues hävisi SaiPalle rankkarikisan jälkeen 3–2 (1–0, 1–2, 0–0, 0–0).",
         "event_type": "game result",
+        "home_team": "Blues",
+        "guest_team": "SaiPa",
         "score": "2–3",
         "features": [
           "penalty shot"
@@ -51617,6 +52125,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Ilves",
+        "guest_team": "Ässät",
         "score": "6–1",
         "features": [],
         "periods": [
@@ -51900,6 +52410,8 @@
         "event_id": "E1",
         "text": "Jokerit haki voiton, kun JYP kaatui voittomaalikisan jälkeen 3–2.",
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "Jokerit",
         "score": "2–3",
         "features": [
           "shoot out"
@@ -52121,6 +52633,8 @@
         "event_id": "E1",
         "text": "Ilves kaatoi kotijäällään TPS:n 2–0.",
         "event_type": "game result",
+        "home_team": "Ilves",
+        "guest_team": "TPS",
         "score": "2–0",
         "features": [],
         "periods": [
@@ -52210,6 +52724,8 @@
         "event_id": "E1",
         "text": "JYP nappasi voiton kukistamalla HPK:n niukasti 2–1.",
         "event_type": "game result",
+        "home_team": "HPK",
+        "guest_team": "JYP",
         "score": "1–2",
         "features": [],
         "periods": [
@@ -52441,6 +52957,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "SaiPa",
+        "guest_team": "HIFK",
         "score": "4–3",
         "features": [],
         "periods": [
@@ -52633,6 +53151,8 @@
         "event_id": "E1",
         "text": "HPK on ottanut kotivoiton 3–2 SaiPasta.",
         "event_type": "game result",
+        "home_team": "HPK",
+        "guest_team": "SaiPa",
         "score": "3–2",
         "features": [],
         "periods": [
@@ -52825,6 +53345,8 @@
         "event_id": "E1",
         "text": "Jokerit murskasi HIFK:n 8–1.",
         "event_type": "game result",
+        "home_team": "Jokerit",
+        "guest_team": "HIFK",
         "score": "8–1",
         "features": [],
         "periods": [
@@ -53142,6 +53664,8 @@
         "event_id": "E1",
         "text": "Pelicans kukisti Ässät 2–1.",
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "Pelicans",
         "score": "1–2",
         "features": [],
         "periods": [
@@ -53449,6 +53973,8 @@
         "event_id": "E1",
         "text": "Tappara oli kotikaukalossaan JYP:iä parempi 5–1.",
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "JYP",
         "score": "5–1",
         "features": [],
         "periods": [
@@ -53655,6 +54181,8 @@
         "event_id": "E1",
         "text": "Isäntäjoukkue HIFK rutisti 5–4 -voiton TPS:stä.",
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "TPS",
         "score": "5–4",
         "features": [],
         "periods": [
@@ -53948,6 +54476,8 @@
         "event_id": "E1",
         "text": "Blues sai TPS:stä puhtaan kotivoiton 3–0 (1–0, 2–0, 0–0).",
         "event_type": "game result",
+        "home_team": "Blues",
+        "guest_team": "TPS",
         "score": "3–0",
         "features": [],
         "periods": [
@@ -54206,6 +54736,8 @@
         "event_id": "E1",
         "text": "TPS löi KalPan 2–1.",
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "KalPa",
         "score": "2–1",
         "features": [],
         "periods": [
@@ -54411,6 +54943,8 @@
         "event_id": "E1",
         "text": "Lahden Pelicans otti kotivoiton, kun HPK kaatui 3–2.",
         "event_type": "game result",
+        "home_team": "Pelicans",
+        "guest_team": "HPK",
         "score": "3–2",
         "features": [],
         "periods": [
@@ -54688,6 +55222,8 @@
         "event_id": "E1",
         "text": "JYP nappasi voiton, kun Porin Ässät kaatui maalein 2–1.",
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "Ässät",
         "score": "2–1",
         "features": [],
         "periods": [
@@ -54915,6 +55451,8 @@
         "event_id": "E1",
         "text": "Lukon ja Helsingin Jokerien ottelu päättyi voittomaalikilpailun jälkeen kotijoukkueelle 5–4.",
         "event_type": "game result",
+        "home_team": "Lukko",
+        "guest_team": "Jokerit",
         "score": "5–4",
         "features": [
           "shoot out"
@@ -55206,6 +55744,8 @@
         "event_id": "E1",
         "text": "Kärpät vei 2–1 -voiton HPK:sta.",
         "event_type": "game result",
+        "home_team": "Kärpät",
+        "guest_team": "HPK",
         "score": "2–1",
         "features": [],
         "periods": [
@@ -55398,6 +55938,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Blues",
+        "guest_team": "Jokerit",
         "score": "2–4",
         "features": [],
         "periods": [
@@ -55675,6 +56217,8 @@
         "event_id": "E1",
         "text": "Joensuun Jokipojat otti voiton Vaasan Sportista. Kotijoukkueen voitto kirjattiin maalein 5–2.",
         "event_type": "game result",
+        "home_team": "Jokipojat",
+        "guest_team": "Sport",
         "score": "5–2",
         "features": [],
         "periods": [
@@ -56013,6 +56557,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Ilves",
+        "guest_team": "Lukko",
         "score": "4–1",
         "features": [],
         "periods": [
@@ -56207,6 +56753,8 @@
         "event_id": "E1",
         "text": "Tappara kukisti vieraissa HIFK:n 5–3.",
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "Tappara",
         "score": "3–5",
         "features": [],
         "periods": [
@@ -56397,6 +56945,8 @@
         "event_id": "E1",
         "text": "Ilves haki 3–1 (0–1, 1–0, 2–0) voiton Lahden Pelicansista.",
         "event_type": "game result",
+        "home_team": "Pelicans",
+        "guest_team": "Ilves",
         "score": "1–3",
         "features": [],
         "periods": [
@@ -56639,6 +57189,8 @@
         "event_id": "E1",
         "text": "Tappara otti niskalenkin JYP:stä voittamalla jatkoajalla 3–2 (0–1, 2–0, 0-1, 1–0).",
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "Tappara",
         "score": "2–3",
         "features": [],
         "periods": [
@@ -56914,6 +57466,8 @@
         "event_id": "E1",
         "text": "HIFK kaatoi kotijoukkue TPS:n maalein 3–2.",
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "HIFK",
         "score": "2–3",
         "features": [],
         "periods": [
@@ -57146,6 +57700,8 @@
         "event_id": "E1",
         "text": "Ässät voitti HPK:n maalein 4–2 (2–0, 1–1, 1–1).",
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "HPK",
         "score": "4–2",
         "features": [],
         "periods": [
@@ -57329,6 +57885,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Jokipojat",
+        "guest_team": "Ilves",
         "score": "2–1",
         "features": [],
         "periods": [
@@ -57564,6 +58122,8 @@
         "event_id": "E1",
         "text": "Ässät kaatoi vieraansa HIFK:n 2–1 (1–1, 1–0, 0–0).",
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "HIFK",
         "score": "2–1",
         "features": [],
         "periods": [
@@ -57685,6 +58245,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "SaiPa",
+        "guest_team": "Ilves",
         "score": "2–3",
         "features": [],
         "periods": [
@@ -57921,6 +58483,8 @@
         "event_id": "E1",
         "text": "Espoon Blues on hävinnyt Zürichille 4–1.",
         "event_type": "game result",
+        "home_team": "Blues",
+        "guest_team": "Zürich",
         "score": "1–4",
         "features": [],
         "periods": [
@@ -57985,6 +58549,8 @@
         "event_id": "E1",
         "text": "Ässät vei Bluesista voiton 4–3.",
         "event_type": "game result",
+        "home_team": "Blues",
+        "guest_team": "Ässät",
         "score": "3–4",
         "features": [],
         "periods": [
@@ -58134,6 +58700,8 @@
         "event_id": "E1",
         "text": "HPK kaatoi Ässät 3–1.",
         "event_type": "game result",
+        "home_team": "HPK",
+        "guest_team": "Ässät",
         "score": "3–1",
         "features": [],
         "periods": [
@@ -58321,6 +58889,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "Kärpät",
         "score": "4–2",
         "features": [],
         "periods": [
@@ -58492,6 +59062,8 @@
         "event_id": "E1",
         "text": "Tamperelaiset kyykyttivät HIFK:ta maalein 4–1 (0–0, 1–0, 3–1).",
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "HIFK",
         "score": "4–1",
         "features": [],
         "periods": [
@@ -58776,6 +59348,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "SaiPa",
         "score": "1–2",
         "features": [],
         "periods": [
@@ -59048,6 +59622,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Sport",
+        "guest_team": "HPK",
         "score": "0–4",
         "features": [],
         "periods": [
@@ -59182,6 +59758,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "TPS",
         "score": "1–0",
         "features": [],
         "periods": [
@@ -59306,6 +59884,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Lukko",
+        "guest_team": "HIFK",
         "score": "3–2",
         "features": [],
         "periods": [
@@ -59529,6 +60109,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Pelicans",
+        "guest_team": "Tappara",
         "score": "1–6",
         "features": [],
         "periods": [
@@ -59741,6 +60323,8 @@
         "event_id": "E1",
         "text": "Ilves taipui kotijäällään, kun Oulun Kärpät otti voiton tupsukorvista 2–4 (1–2, 1–1, 0–1).",
         "event_type": "game result",
+        "home_team": "Ilves",
+        "guest_team": "Kärpät",
         "score": "2–4",
         "features": [],
         "periods": [
@@ -59949,6 +60533,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "HIFK",
         "score": "5–3",
         "features": [],
         "periods": [
@@ -60130,6 +60716,8 @@
         "event_id": "E1",
         "text": "JYP:n eväät eivät riittäneet kaatamaan Espoon Bluesia, joka vei voiton lukemin 4–1 (0–1, 2–0, 2–0).",
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "Blues",
         "score": "1–4",
         "features": [],
         "periods": [
@@ -60347,6 +60935,8 @@
         "event_id": "E1",
         "text": "Ässät ratkaisi vasta jatkoajalla voiton SaiPasta lukemin 2–1.",
         "event_type": "game result",
+        "home_team": "SaiPa",
+        "guest_team": "Ässät",
         "score": "1–2",
         "features": [
           "overtime"
@@ -60418,6 +61008,8 @@
         "event_id": "E1",
         "text": "JyP otti pisteet Tampereen Tapparalta maalein 3—1 (1—0, 0—1, 2—0).",
         "event_type": "game result",
+        "home_team": "JyP",
+        "guest_team": "Tappara",
         "score": "3–1",
         "features": [],
         "periods": [
@@ -60660,6 +61252,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "Jukurit",
         "score": "2–1",
         "features": [],
         "periods": [
@@ -60722,6 +61316,8 @@
         "event_id": "E1",
         "text": "TuTo kukisti SaiPan selkeästi 3—7.",
         "event_type": "game result",
+        "home_team": "SaiPa",
+        "guest_team": "TuTo",
         "score": "3–7",
         "features": [],
         "periods": [
@@ -61020,6 +61616,8 @@
         "event_id": "E1",
         "text": "Jokerit oli HIFK:ta vahvempi maalein 4–2.",
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "Jokerit",
         "score": "2–4",
         "features": [],
         "periods": [
@@ -61278,6 +61876,8 @@
         "event_id": "E1",
         "text": "Tappara kaatoi kotikaukalossaan HPK:n 2–0 (0–0, 0–0, 2–0).",
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "HPK",
         "score": "2–0",
         "features": [],
         "periods": [
@@ -61427,6 +62027,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "TPS",
         "score": "2–4",
         "features": [],
         "periods": [
@@ -61666,6 +62268,8 @@
         "event_id": "E1",
         "text": "Lappeenrannan SaiPa nöyrtyi 0–7 (0–2, 0–3, 0–2) -tappioon Oulun Kärpille.",
         "event_type": "game result",
+        "home_team": "Kärpät",
+        "guest_team": "SaiPa",
         "score": "7–0",
         "features": [],
         "periods": [
@@ -61911,6 +62515,8 @@
         "event_id": "E1",
         "text": "JyP voitti pelin Tampereen Tapparaa vastaan maalein 3—2 (1—1, 1—1, 1—0)",
         "event_type": "game result",
+        "home_team": "JyP",
+        "guest_team": "Tappara",
         "score": "3–2",
         "features": [],
         "periods": [
@@ -62098,6 +62704,8 @@
         "event_id": "E1",
         "text": "SaiPa antautui kotonaan Espoon Bluesille voittomaalikisan jälkeen 2–3 (0–2, 2–0, 0–0, 0–1).",
         "event_type": "game result",
+        "home_team": "SaiPa",
+        "guest_team": "Blues",
         "score": "2–3",
         "features": [
           "shoot out"
@@ -62281,6 +62889,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "KalPa",
+        "guest_team": "Ässät",
         "score": "3–4",
         "features": [],
         "periods": [
@@ -62565,6 +63175,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "SaiPa",
+        "guest_team": "Lukko",
         "score": "4–1",
         "features": [],
         "periods": [
@@ -62583,6 +63195,8 @@
         "event_id": "E1",
         "text": "Jukurit voitti Hokin vieraissa peräti 7–3.",
         "event_type": "game result",
+        "home_team": "Hokki",
+        "guest_team": "Jukurit",
         "score": "3–7",
         "features": [],
         "periods": [
@@ -62903,6 +63517,8 @@
         "event_id": "E1",
         "text": "Ässät haki 4–2 -voiton Jokerien kotihallista.",
         "event_type": "game result",
+        "home_team": "Jokerit",
+        "guest_team": "Ässät",
         "score": "2–4",
         "features": [],
         "periods": [
@@ -63181,6 +63797,8 @@
         "event_id": "E1",
         "text": "Lahtelainen Pelicans voitti TPS:n vieraissa jatkoajalla 3–2.",
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "Pelicans",
         "score": "2–3",
         "features": [],
         "periods": [
@@ -63375,6 +63993,8 @@
         "event_id": "E1",
         "text": "Turkulainen vierailija TPS riisti pisteet kuopiolaiselta KalPalta maalein 4–2.",
         "event_type": "game result",
+        "home_team": "KalPa",
+        "guest_team": "TPS",
         "score": "2–4",
         "features": [],
         "periods": [
@@ -63582,6 +64202,8 @@
         "event_id": "E1",
         "text": "Kirvespaidat venyivät kotikaukalossaan HIFK:ta vastaan tasapeliin maalein 4—4 (2—0, 0—3, 2—1, 0—0).",
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "HIFK",
         "score": "4–4",
         "features": [],
         "periods": [
@@ -63807,6 +64429,8 @@
         "event_id": "E1",
         "text": "HPK kukisti Ässät 6–1.",
         "event_type": "game result",
+        "home_team": "HPK",
+        "guest_team": "Ässät",
         "score": "6–1",
         "features": [],
         "periods": [
@@ -64141,6 +64765,8 @@
         "event_id": "E1",
         "text": "Mikkeliläinen Jukurit hävisi 3–4 (1–2, 0–1, 2–1) isäntäjoukkue Zürich Lionsille.",
         "event_type": "game result",
+        "home_team": "Zürich",
+        "guest_team": "Jukurit",
         "score": "4–3",
         "features": [],
         "periods": [
@@ -64266,6 +64892,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Blues",
+        "guest_team": "Ässät",
         "score": "4–2",
         "features": [],
         "periods": [
@@ -64474,6 +65102,8 @@
         "event_id": "E1",
         "text": "JYP voitti HPK:n 3–2.",
         "event_type": "game result",
+        "home_team": "JYP",
+        "guest_team": "HPK",
         "score": "3–2",
         "features": [
           "overtime period"
@@ -64660,6 +65290,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "TPS",
         "score": "2–3",
         "features": [
           "overtime"
@@ -64854,6 +65486,8 @@
         "event_id": "E1",
         "text": "Ilveksen ja HIFK:n ottelu päättyi maalein 1–4 (0–0, 0–1, 1–3).",
         "event_type": "game result",
+        "home_team": "Ilves",
+        "guest_team": "HIFK",
         "score": "1–4",
         "features": [],
         "periods": [
@@ -64986,6 +65620,8 @@
         "event_id": "E1",
         "text": "KooKoo voitti kotijäällään Kärpät maalein 2–1.",
         "event_type": "game result",
+        "home_team": "KooKoo",
+        "guest_team": "Kärpät",
         "score": "2–1",
         "features": [],
         "periods": [
@@ -65066,6 +65702,8 @@
         "event_id": "E1",
         "text": "Kuopiolainen KalPa otti voiton kun jalkoihin jäi Ilves, joka hävisi maalein 3—6 (0—2, 1—4, 2—0).",
         "event_type": "game result",
+        "home_team": "Ilves",
+        "guest_team": "KalPa",
         "score": "3–6",
         "features": [],
         "periods": [
@@ -65349,6 +65987,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Lukko",
+        "guest_team": "Pelicans",
         "score": "1–2",
         "features": [
           "penalty shot"
@@ -65543,6 +66183,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "TPS",
         "score": "3–2",
         "features": [
           "overtime period"
@@ -65770,6 +66412,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "Jokerit",
         "score": "2–3",
         "features": [],
         "periods": [
@@ -65997,6 +66641,8 @@
         "event_id": "E1",
         "text": "Kärpät otti vierasvoiton HIFK:sta maalein 4–3.",
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "Kärpät",
         "score": "3–4",
         "features": [
           "shoot out"
@@ -66169,6 +66815,8 @@
         "event_id": "E1",
         "text": "KalPa voitti HPK:n 3–2.",
         "event_type": "game result",
+        "home_team": "KalPa",
+        "guest_team": "HPK",
         "score": "3–2",
         "features": [],
         "periods": [
@@ -66397,6 +67045,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "Blues",
         "score": "4–2",
         "features": [],
         "periods": [
@@ -66618,6 +67268,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Kärpät",
+        "guest_team": "Jokerit",
         "score": "4–2",
         "features": [],
         "periods": [
@@ -66849,6 +67501,8 @@
         "event_id": "E1",
         "text": "Jokerit on voittanut Tapparan 4–3.",
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "Jokerit",
         "score": "3–4",
         "features": [],
         "periods": [
@@ -67067,6 +67721,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Kärpät",
+        "guest_team": "Ässät",
         "score": "4–1",
         "features": [],
         "periods": [
@@ -67282,6 +67938,8 @@
         "event_id": "E1",
         "text": "Pelicans löi Jukurit vieraissa 3–2.",
         "event_type": "game result",
+        "home_team": "Jukurit",
+        "guest_team": "Pelicans",
         "score": "2–3",
         "features": [],
         "periods": [
@@ -67396,6 +68054,8 @@
         "event_id": "E1",
         "text": "TPS otti 3–2 -voiton Ilveksestä.",
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "Ilves",
         "score": "3–2",
         "features": [],
         "periods": [
@@ -67613,6 +68273,8 @@
         "event_id": "E1",
         "text": "Lukko kohtasi HPK:n, ja pisteet matkasivat vieraille maalein 2—4 (2—1, 0—1, 0—2).",
         "event_type": "game result",
+        "home_team": "Lukko",
+        "guest_team": "HPK",
         "score": "2–4",
         "features": [],
         "periods": [
@@ -67793,6 +68455,8 @@
         "event_id": "E1",
         "text": "KooKoo löi HIFK:n vieraissa jatkoajalla 1–0.",
         "event_type": "game result",
+        "home_team": "HIFK",
+        "guest_team": "KooKoo",
         "score": "0–1",
         "features": [
           "overtime"
@@ -67838,6 +68502,8 @@
         "event_id": "E1",
         "text": "Reipas vei 6—3 (1—1, 2—1, 3—1) -voiton Joensuun Kiekko-Pojista.",
         "event_type": "game result",
+        "home_team": "Reipas",
+        "guest_team": "JoKP",
         "score": "6–3",
         "features": [],
         "periods": [
@@ -68079,6 +68745,8 @@
         "event_id": "E1",
         "text": "Kärpät–KalPa -ottelu päättyi vieraille 1-3.",
         "event_type": "game result",
+        "home_team": "Kärpät",
+        "guest_team": "KalPa",
         "score": "1–3",
         "features": [],
         "periods": [
@@ -68182,6 +68850,8 @@
         "event_id": "E1",
         "text": "SaiPa ja Ässät hakivat ottelussaan voittajaa ylitöiden kautta. Voittomaalikisassa peli ratkaistiin SaiPalle lukemin 5–4.",
         "event_type": "game result",
+        "home_team": "SaiPa",
+        "guest_team": "Ässät",
         "score": "5–4",
         "features": [
           "shoot out"
@@ -68334,6 +69004,8 @@
         "event_id": "E1",
         "text": "Ilves vei pisteet TPS:ltä 3—1 -tuloksella.",
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "Ilves",
         "score": "1–3",
         "features": [],
         "periods": [
@@ -68461,6 +69133,8 @@
         "event_id": "E1",
         "text": "Ässät nuiji HIFK:n tylysti jäänrakoon lukemin 5–1 (2–1, 2–0, 1–0).",
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "HIFK",
         "score": "5–1",
         "features": [],
         "periods": [
@@ -68682,6 +69356,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Tappara",
+        "guest_team": "HIFK",
         "score": "4–3",
         "features": [
           "shoot out"
@@ -68844,6 +69520,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "Pelicans",
         "score": "2–0",
         "features": [],
         "periods": [
@@ -68911,6 +69589,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Jokerit",
+        "guest_team": "Lukko",
         "score": "3–3",
         "features": [],
         "periods": [
@@ -69193,6 +69873,8 @@
         "event_id": "E1",
         "text": "TPS vei 4–1 -voiton Lukosta.",
         "event_type": "game result",
+        "home_team": "TPS",
+        "guest_team": "Lukko",
         "score": "4–1",
         "features": [],
         "periods": [
@@ -69404,6 +70086,8 @@
         "event_id": "E1",
         "text": "HPK vei 6—5 (2—1, 0—2, 4—2) -voiton Jokereista.",
         "event_type": "game result",
+        "home_team": "HPK",
+        "guest_team": "Jokerit",
         "score": "6–5",
         "features": [],
         "periods": [
@@ -69723,6 +70407,8 @@
         "event_id": "E1",
         "text": "Pelicans päätyi kotihallissaan 3–3 (1–1, 2–2, 0–0 ) tasapeliin JYP:iä vastaan.",
         "event_type": "game result",
+        "home_team": "Pelicans",
+        "guest_team": "JYP",
         "score": "3–3",
         "features": [],
         "periods": [
@@ -69932,6 +70618,8 @@
         "event_id": "E1",
         "text": "Pelicans junttasi Hämeenlinnan Pallokerhon, kun lahtelaiset ottivat kotivoiton 4–2 (3–1, 0–0, 1–1).",
         "event_type": "game result",
+        "home_team": "Pelicans",
+        "guest_team": "HPK",
         "score": "4–2",
         "features": [],
         "periods": [
@@ -70079,6 +70767,8 @@
         "event_id": "E1",
         "text": "Ässät otti kotivoiton kukistamalla HPK:n lukemin 7–3.",
         "event_type": "game result",
+        "home_team": "Ässät",
+        "guest_team": "HPK",
         "score": "7–3",
         "features": [],
         "periods": [
@@ -70538,6 +71228,8 @@
         "event_id": "E1",
         "text": null,
         "event_type": "game result",
+        "home_team": "Sport",
+        "guest_team": "Kärpät",
         "score": "4–1",
         "features": [],
         "periods": [
@@ -70653,6 +71345,8 @@
         "event_id": "E1",
         "text": "Ilves löi TPS:n voittolaukauskisassa 2-1.",
         "event_type": "game result",
+        "home_team": "Ilves",
+        "guest_team": "TPS",
         "score": "2–1",
         "features": [
           "shoot out"
